@@ -393,6 +393,7 @@ for (size_t i = 0; i < v.len; i++) {
     v[i] = 0;                     // bounds proven, safe
 }
 // buf drops here, deallocates once; no dangling pointers possible
+```
 
 ---
 
