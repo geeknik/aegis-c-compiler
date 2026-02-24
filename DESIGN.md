@@ -1,4 +1,4 @@
-# DESIGN.md — “AegisCC”: A C Compiler That Makes Memory-Safety Bugs Impossible
+# “AegisCC”: A C Compiler That Makes Memory-Safety Bugs Impossible
 
 ## 0. Thesis
 
